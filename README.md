@@ -25,7 +25,7 @@ Some facts about me:
 ## Contact Me
 
 
-<img align="left" alt="Karan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://linkedin.com/karan-malik-1702) <br><br>
+<img align="left" alt="Karan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://linkedin.com/in/karan-malik-1702) <br><br>
 <img align="left" alt="Karan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> karanmalik2000@gmail.com
 <br><br>
 <img align="left" alt="Karan's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/googlechrome.svg" /> Check out my <a target="_blank" href="https://karan-malik.github.io">Portfolio</a>
