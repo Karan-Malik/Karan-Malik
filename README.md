@@ -32,6 +32,5 @@ Some facts about me:
 <br><br>
 
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karan-Malik&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)
-<br>
-![counter](https://en3cr4pl7lyoesr.m.pipedream.net)
+<br><img align="left" alt="Karan's Profile Views" src="https://en3cr4pl7lyoesr.m.pipedream.net">
 
