@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Karan :computer:
 
-I am a budding Data Scientist, who is very passionate towards Machine Learning, Deep Learning and Artificial Intelligence. :smile:
+I am a budding Data Scientist, who is very passionate towards Machine Learning, Deep Learning, Artificial Intelligence and Research. :smile:
 
 Some facts about me:
 
@@ -17,9 +17,7 @@ Some facts about me:
 
 * :earth_asia: I have also built several websites using Flask, HTML, CSS and basic Javascript.
 
-* :deciduous_tree: I am currently working on Data Structures and Algorithms in C++ along with stepping into the field of Competitive Data Science.
-
-* :bulb: I am an avid researcher as well
+* :bulb: I am an avid researcher as well with a couple of publications in respected journals.
 
 
 ## Contact Me
