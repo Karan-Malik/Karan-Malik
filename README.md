@@ -22,7 +22,7 @@ Some facts about me:
 
 ## Contact Me
 
-<img align="left" alt="Karan's Resume" width="22px" src="https://cdn-icons.flaticon.com/png/512/4212/premium/4212312.png?token=exp=1644950833~hmac=c5a372051523dc8e750f273cefa163f1" /> View my [Resume](https://drive.google.com/file/d/1bR4O3mcRT8HRzIL_l1tX_1vN2AiZJNas/view?usp=sharing) <br><br>
+<img align="left" alt="Karan's Resume" width="22px" src="https://docs.google.com/document/d/1yxJ3SmfpiexkEX5hAonqkxjseg_5K_c4/edit?usp=sharing&ouid=110816059761597838540&rtpof=true&sd=true" /> View my [Resume](https://drive.google.com/file/d/1bR4O3mcRT8HRzIL_l1tX_1vN2AiZJNas/view?usp=sharing) <br><br>
 <img align="left" alt="Karan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://linkedin.com/in/karan-malik-1702) <br><br>
 <img align="left" alt="Karan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> karanmalik2000@gmail.com
 <br><br>
